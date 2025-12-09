@@ -1,0 +1,16 @@
+RELATÓRIO EXECUTIVO - CRIMINALIDADE EM MINAS GERAIS
+======================================================================
+
+Matriz de correlações:
+                          Taxa_Crimes  PIB_Limpo  Total_Recursos_PerCapita  Escolarizacao_Limpa  IDHM_Limpo  Taxa_Encarceramento
+Taxa_Crimes                     1.000      0.282                    -0.683               -0.336       0.623               -0.160
+PIB_Limpo                       0.282      1.000                    -0.334               -0.164       0.609               -0.221
+Total_Recursos_PerCapita       -0.683     -0.334                     1.000                0.459      -0.642                0.058
+Escolarizacao_Limpa            -0.336     -0.164                     0.459                1.000      -0.304                0.050
+IDHM_Limpo                      0.623      0.609                    -0.642               -0.304       1.000               -0.065
+Taxa_Encarceramento            -0.160     -0.221                     0.058                0.050      -0.065                1.000
+
+Principais achados:
+- Total_Recursos_PerCapita: r = 0.683
+- IDHM_Limpo: r = 0.623
+- Escolarizacao_Limpa: r = 0.336
