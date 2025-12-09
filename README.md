@@ -48,7 +48,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-2. Abra o arquivo `main_organizada.ipynb`
+2. Abra o arquivo `main.ipynb`
 
 3. Execute todas as células em ordem (ou execute a função principal `executar_analise_completa()`)
 
@@ -65,7 +65,7 @@ Para executar o notebook completo, você precisará dos seguintes arquivos de da
 
 ### Arquivos Principais
 
-- **`main_organizada.ipynb`** - Notebook principal com toda a análise
+- **`main.ipynb`** - Notebook principal com toda a análise
 - **`requirements.txt`** - Dependências do projeto
 
 ### Resultados Gerados
@@ -146,7 +146,7 @@ O algoritmo K-Means identificou 3 grupos distintos de municípios com perfis sim
 
 ## 📈 Estrutura do Notebook
 
-O notebook `main_organizada.ipynb` está organizado em células:
+O notebook `main.ipynb` está organizado em células:
 
 1. **Cell 0** - Imports e configurações iniciais
 2. **Cell 1** - Funções auxiliares de limpeza de dados
@@ -178,4 +178,5 @@ Este projeto é parte de um trabalho acadêmico.
 ---
 
 **Última atualização:** 2025
+
 
