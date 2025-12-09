@@ -169,14 +169,11 @@ O notebook `main.ipynb` está organizado em células:
 
 ## 👤 Autor
 
-Trabalho desenvolvido para o curso de Ciência de Dados - CEFET-MG
+Trabalho desenvolvido para a disciplina de Ciência de Dados - CEFET-MG
 
 ## 📄 Licença
 
 Este projeto é parte de um trabalho acadêmico.
 
----
-
-**Última atualização:** 2025
 
 
